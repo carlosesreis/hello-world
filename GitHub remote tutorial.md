@@ -19,7 +19,9 @@
 **Commit**
 
 `git commit -a -m "commit message"`
+
 or
+
 `git commit "file_to_commit" -m "commit message"`
 
 `-a` tell the command to automatically stage files that have been modified and deleted, but new files you have not told Git about are not affected.
@@ -28,11 +30,13 @@ or
 
 `git push [remote-name] [branch-name]`
 
+If you want to push your master branch to your `origin` server, then you can run to push any commits you've done
+
 **Pull**
 
 `git pull`
 
-automatically fetch and then merge that remote branch into your current branch. The `git clone` command automatically sets up your local master branch to track the remote master branch on the server you cloned from. Running `git pull` generally fetches data from the server you originally cloned from and automatically tries to merge it into the code you`re currently working on.
+Automatically fetch and then merge that remote branch into your current branch. The `git clone` command automatically sets up your local master branch to track the remote master branch on the server you cloned from. Running `git pull` generally fetches data from the server you originally cloned from and automatically tries to merge it into the code you're currently working on.
  
 **Add**
 
