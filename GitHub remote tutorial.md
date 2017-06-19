@@ -30,6 +30,9 @@
 
 `git pull`
 
+
+okokok
+
 automatically fetch and then merge that remote branch into your current branch. The `git clone` command automatically sets up your local master branch to track the remote master branch on the server you cloned from. Running `git pull` generally fetches data from the server you originally cloned from and automatically tries to merge it into the code you`re currently working on.
  
 Here!
