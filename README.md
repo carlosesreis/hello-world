@@ -14,14 +14,15 @@ This job marks the beginning of my career as a professional software engineer, t
 
 Testing the git remote tools.
 
-#Clone
+**Clone**
 
 git clone url
 
-#Minimal Configuration
+**Minimal Configuration**
 
 git config --global user.name your_git_user_name
+
 git config --global user.email your@user_email
 
-`--global` flag sets configuration
+`--global` flag sets configuration options at a global leve, if instead you want to set it at a project level use `--local`, instead.
 
