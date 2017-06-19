@@ -16,13 +16,23 @@ Testing the git remote tools.
 
 **Clone**
 
-git clone url
+`git clone url`
 
 **Minimal Configuration**
 
-git config --global user.name your_git_user_name
+`git config --global user.name your_git_user_name`
 
-git config --global user.email your@user_email
+`git config --global user.email your@user_email`
 
 `--global` flag sets configuration options at a global leve, if instead you want to set it at a project level use `--local`, instead.
 
+**Commit**
+
+`git commit -a -m "mcommit message"`
+
+`-a` tell the command to automatically stage files that have been modified and deleted, but new files you have not told Git about are not affected.
+
+**Push**
+
+`git push origin master`
+ 
