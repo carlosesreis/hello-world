@@ -11,3 +11,5 @@ I'm member of the Scientific Computing team of the Italian synchrotron Elettra (
 As soon as I finished my engineering degree in Brazil and my Master’s in Portugal, July last year I applied for an interesting position at the Italian synchrotron Elettra. The job's main task is the participation in the BrightnESS project. At the moment, I am following the developments of a very powerful framework named Kafka that is going to be used in BrightnESS. In parallel, I am keeping up with the activities of the Scientific Computing team of Elettra, which also provides its services to the free electron laser FERMI.
 
 This job marks the beginning of my career as a professional software engineer, thus being involved in an international project of this size is really fantastic. I interact with so many people from different institutes, which all work enthusiastically towards the same goal. I also like that I get the opportunity to learn new things and self-develop by facing challenges.
+
+Testing the git remote tools.dadadadadaddadadadada.
