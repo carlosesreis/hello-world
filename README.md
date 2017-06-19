@@ -34,6 +34,6 @@ This job marks the beginning of my career as a professional software engineer, t
 
 **Push**
 
-`git push origin master`
+`git push [reomte name] [branch-name]`
  
 Aqui!
