@@ -15,9 +15,11 @@ This job marks the beginning of my career as a professional software engineer, t
 Testing the git remote tools.
 
 #Clone
+
 git clone url
 
 #Minimal Configuration
+
 git config --global user.name your_git_user_name
 git config --global user.email your@user_email
 
