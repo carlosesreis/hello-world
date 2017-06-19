@@ -19,6 +19,8 @@
 **Commit**
 
 `git commit -a -m "commit message"`
+or
+`git commit "file_to_commit" -m "commit message"`
 
 `-a` tell the command to automatically stage files that have been modified and deleted, but new files you have not told Git about are not affected.
 
