@@ -2,7 +2,7 @@
 
 
 
-This is my first repository created for learning purpose.
+This is a repository created for learning purpose.
 
 My background:
 
